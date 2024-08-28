@@ -21,9 +21,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=sbareacela&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/SBareaCela/todo_list_flask">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sbareacela&repo=todo_list_flask&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/SBareaCela/todo_list_flask">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sbareacela&repo=todo_list_flask&theme=dark" />
 </a>
