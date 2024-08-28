@@ -17,4 +17,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbareacela&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbareacela&repo=todo_list_flask&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbareacela&repo=todo_list_flask&theme=dark&show_icons=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
